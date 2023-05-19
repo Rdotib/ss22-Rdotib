@@ -9,7 +9,7 @@ A portflio showcasing my work.
 
 Here are some wireframes to show the site archtectiure and layout could be.
 
-![Wireframe of landing page](wireframe0.jpg)
+![Wireframe of landing page](Wireframes/wireframe0.jpg)
 
 Header - will include my navigation with my logo.  
 
@@ -20,7 +20,7 @@ Main Content - a little summary about me.
 Footer - will include copypright information
 
 
-![Wireframe of about me](wireframe3.jpg)
+![Wireframe of about me](Wireframes/wireframe3.jpg)
 
 Header - logo and time zone
 
@@ -29,7 +29,7 @@ Main Content - highlight my skills/ resume
 Footer - copyright information
 
 
-![Wireframe of projects](wireframe2.jpg)
+![Wireframe of projects](Wireframes/wireframe2.jpg)
 
 Header - logo and time zone
 
@@ -38,7 +38,7 @@ Main Content- showcasing my work with description.
 Footer - copyright information
 
 
-![Wireframe of contact](wireframe1.jpg)
+![Wireframe of contact](Wireframes/wireframe1.jpg)
 
 Header- logo and time zone
 
