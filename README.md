@@ -20,7 +20,7 @@ Main Content - a little summary about me.
 Footer - will include copypright information
 
 
-![Wireframe of about me](wireframe1.jpg)
+![Wireframe of about me](wireframe3.jpg)
 
 Header - logo and time zone
 
@@ -38,7 +38,7 @@ Main Content- showcasing my work with description.
 Footer - copyright information
 
 
-![Wireframe of contact](wireframe3.jpg)
+![Wireframe of contact](wireframe1.jpg)
 
 Header- logo and time zone
 
