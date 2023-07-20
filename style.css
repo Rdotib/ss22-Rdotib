@@ -21,7 +21,7 @@ img {
  /* using overflow so the links show and fit */
 #navbar {
     width: 100%;
-    background-color:bisque;
+    background-color:rgba(217, 12, 152, 0.27);
     overflow: auto;
     display: flex;
     justify-content: center;
@@ -65,3 +65,27 @@ div {
       background: pink;
       color:black;
     }
+
+    .img-flower{
+      width: 300px;
+    }
+
+    .img-car{
+    width: 300px;
+    }
+    
+    .img-summer{
+      width: 400px;
+      }
+
+    .img-fire{
+        width: 400px;
+        }
+
+      .img-scan{
+          width: 400px;
+          }
+        
+          .img-shoot{
+            width: 350px;
+            }
